@@ -1,0 +1,21 @@
+= MC33889 driver board
+
+== Functionality
+
+* Isolation between logic input and driver.
+* Quadrature encoder connector.
+* Up to 5A current output.
+* Up to 4S (16.8V) battery power input.
+* Reverse battery voltage protection.
+
+== 3D model
+
+STEP file in this repository: xref:MC33886_driver_board.step[]
+
+http://a360.co/2xIuWOr[Fusion 360 design file]
+
+image:images/mc33886_driver_board_3d.png[]
+
+== Component guide
+
+image:images/mc33886_driver_board_components.png[]
