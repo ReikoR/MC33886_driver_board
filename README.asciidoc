@@ -1,4 +1,4 @@
-= MC33889 driver board
+= MC33886 driver board
 
 == Functionality
 
